@@ -1,12 +1,12 @@
 # ZAMBO
 
-### The cross-AI execution and verification layer.
+### The cross-AI execution and verification layer — solo-built by **Brennan Zambo**.
 
-**Give the AI you already use tools, memory, and proof.**
+**Give your AI hands. One URL. Type a job. Get a receipt.**
 
-Zambo sits between an AI client and the work it needs to complete. It gives supported MCP clients one shared execution layer for live tools, durable continuity, explicit approvals, artifacts, and execution receipts—without replacing the model or forcing users into another chatbot.
+Zambo sits beside the model you already use — not another chatbot. One remote MCP endpoint gives supported clients 100+ native tools with zero auth: strategy, code audit, lead generation, onchain scoring, credit discovery, prompt defense, and more. Free: 20 calls/tool/day, no account.
 
-[Connect Zambo](https://zambo.dev/mcp) · [Explore workflows](https://zambo.dev/workflows) · [View reliability](https://zambo.dev/reliability) · [Open zambo.dev](https://zambo.dev)
+[Connect Zambo](https://zambo.dev/mcp) · [Install](https://zambo.dev/install) · [Docs for agents](https://zambo.dev/for-agents/) · [llms.txt](https://zambo.dev/.well-known/llms.txt) · [Telegram](https://t.me/zambodev_bot) · [zambo.dev](https://zambo.dev)
 
 ---
 
@@ -42,6 +42,8 @@ Minimal configuration for clients that accept remote Streamable HTTP MCP servers
   }
 }
 ```
+
+Or via npm: `npx zambo install`
 
 After connecting, ask your AI to discover a capability or execute a safe task. Consequential actions may require explicit confirmation. Gateway, product, and upstream-provider limits can apply.
 
