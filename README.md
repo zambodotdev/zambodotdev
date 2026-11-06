@@ -1,9 +1,9 @@
 # Zambo
 
-[![zambo receipts](https://img.shields.io/endpoint?url=https://rambozambodotdev.gitlab.io/aer1-hub/badges/receipts.json)](https://zambo.dev/numbers/)
-[![package downloads](https://img.shields.io/endpoint?url=https://rambozambodotdev.gitlab.io/aer1-hub/badges/downloads.json)](https://zambo.dev/numbers/)
-[![IETF drafts](https://img.shields.io/endpoint?url=https://rambozambodotdev.gitlab.io/aer1-hub/badges/drafts.json)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
-[![AER-1 corpus](https://img.shields.io/endpoint?url=https://rambozambodotdev.gitlab.io/aer1-hub/badges/corpus.json)](https://zambo.dev/aer1/corpus.json)
+[![zambo receipts](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/receipts.json)](https://zambo.dev/numbers/)
+[![package downloads](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/downloads.json)](https://zambo.dev/numbers/)
+[![IETF drafts](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/drafts.json)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
+[![AER-1 corpus](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/corpus.json)](https://zambo.dev/aer1/corpus.json)
 
 **The verifiable work layer for AI.** Solo-built by Brennan Zambo.
 
