@@ -1,7 +1,7 @@
 # Zambo
 
-[![zambo receipts](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/receipts.json)](https://zambo.dev/numbers/)
-[![package downloads](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/downloads.json)](https://zambo.dev/numbers/)
+[![zambo receipts](https://img.shields.io/badge/dynamic/json?url=https://zambo.dev/api/stats&query=%24.public_receipts&label=zambo%20receipts&color=brightgreen)](https://zambo.dev/numbers/)
+[![package downloads](https://img.shields.io/badge/dynamic/json?url=https://zambo.dev/api/package-stats&query=%24.combined_all_time&label=package%20downloads&color=blue)](https://zambo.dev/numbers/)
 [![IETF drafts](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/drafts.json)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
 [![AER-1 corpus](https://img.shields.io/endpoint?url=https://gitlab.com/rambozambodotdev/aer1-hub/-/raw/main/badges/corpus.json)](https://zambo.dev/aer1/corpus.json)
 
