@@ -18,7 +18,7 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and independent implementations pass the published AER-1 conformance corpus (143 vectors, 146 checks)
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
-- Free tier: 20 calls and 1 wrap-up free every day. Picking up in another AI is always free
+- Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
 
 Start here: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp)
 
