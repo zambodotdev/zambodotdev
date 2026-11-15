@@ -5,6 +5,9 @@
 [![IETF drafts](https://img.shields.io/badge/IETF_drafts-3_active-blue)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
 [![AER-1 corpus](https://img.shields.io/badge/AER--1_corpus-143_vectors_%2F_146_checks-brightgreen)](https://zambo.dev/aer1/corpus.json)
 
+
+AER-1 is the open standard for agent execution receipts. Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
+
 **The verifiable work layer for AI.** Solo-built by Brennan Zambo, who created agent execution receipts: Zambo is the origin product, AER-1 the defining standard.
 
 Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools (37 on the default surface), and a verifiable receipt for every job.
