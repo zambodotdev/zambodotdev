@@ -21,7 +21,24 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
 
 
-Connect any MCP client in one paste:
+## Add Zambo in one command
+
+Claude Code:
+
+```bash
+claude mcp add zambo --transport http https://zambo.dev/mcp
+```
+
+Stdio clients:
+
+```bash
+npx zambo-mcp
+```
+
+For Cursor, Cline, VS Code and other connector galleries, follow the per-client connector steps at https://zambo.dev/install/
+
+<details>
+<summary>Raw JSON config</summary>
 
 ```json
 {
@@ -32,6 +49,8 @@ Connect any MCP client in one paste:
   }
 }
 ```
+
+</details>
 
 Start here: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp)
 
