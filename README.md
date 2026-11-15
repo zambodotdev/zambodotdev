@@ -20,6 +20,19 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
 
+
+Connect any MCP client in one paste:
+
+```json
+{
+  "mcpServers": {
+    "zambo": {
+      "url": "https://zambo.dev/mcp"
+    }
+  }
+}
+```
+
 Start here: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp)
 
 Site: https://zambo.dev
