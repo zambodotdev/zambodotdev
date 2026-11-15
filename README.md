@@ -5,13 +5,14 @@
 [![IETF drafts](https://img.shields.io/badge/IETF_drafts-3_active-blue)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
 [![AER-1 corpus](https://img.shields.io/badge/AER--1_corpus-143_vectors_%2F_146_checks-brightgreen)](https://zambo.dev/aer1/corpus.json)
 
-**The verifiable work layer for AI.** Solo-built by Brennan Zambo.
+**The verifiable work layer for AI.** Solo-built by Brennan Zambo, who created agent execution receipts: Zambo is the origin product, AER-1 the defining standard.
 
-Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools, and a verifiable receipt for every job.
+Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools (37 on the default surface), and a verifiable receipt for every job.
 
 - Add Zambo: https://zambo.dev/add/?ref=gh-profile
 - Verify a receipt: https://zambo.dev/verify/
 - Day Pass, $0.99 unlimited for 24 hours: https://zambo.dev/day-pass/
+- Pass: $29 for 30 days, $19 for $ZAMBO holders, or Lifetime at $250 one payment: https://zambo.dev/pricing/
 - AER-1 draft: https://datatracker.ietf.org/doc/draft-zambo-aer1/26/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
 - HANDOVER, the flagship: hand work between AIs as one link, with the full record attached
@@ -53,5 +54,7 @@ For Cursor, Cline, VS Code and other connector galleries, follow the per-client 
 </details>
 
 Start here: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp)
+
+Run the conformance challenge: [Run the verifier. Post your score.](https://github.com/zambodotdev/aer-1/issues/4) · Argue about what a receipt should refuse to say: [AER-1 discussions](https://github.com/zambodotdev/aer-1/discussions/5)
 
 Site: https://zambo.dev
