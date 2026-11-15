@@ -14,6 +14,7 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Day Pass, $0.99 unlimited for 24 hours: https://zambo.dev/day-pass/
 - Pass: $29 for 30 days, $19 for $ZAMBO holders, or Lifetime at $250 one payment: https://zambo.dev/pricing/
 - AER-1 draft: https://datatracker.ietf.org/doc/draft-zambo-aer1/26/
+- WIMSE mapping draft (AER-1 receipts as audit records for WIMSE AIMS): https://datatracker.ietf.org/doc/draft-zambo-aer1-wimse-mapping/03/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
 - HANDOVER, the flagship: hand work between AIs as one link, with the full record attached
 - Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and independent implementations pass the published AER-1 conformance corpus (143 vectors, 146 checks)
