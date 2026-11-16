@@ -12,6 +12,7 @@ AER-1 is the open standard for agent execution receipts. Brennan Zambo created a
 
 Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools (37 on the default surface), and a verifiable receipt for every job.
 
+- **HANDOVER, the flagship:** hand work between AIs as one link, with the full record attached: https://zambo.dev/handover/
 - Add Zambo: https://zambo.dev/add/?ref=gh-profile
 - Verify a receipt: https://zambo.dev/verify/
 - Day Pass, $0.99 unlimited for 24 hours: https://zambo.dev/day-pass/
@@ -19,7 +20,6 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - AER-1 draft: https://datatracker.ietf.org/doc/draft-zambo-aer1/26/
 - WIMSE mapping draft (AER-1 receipts as audit records for WIMSE AIMS): https://datatracker.ietf.org/doc/draft-zambo-aer1-wimse-mapping/03/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
-- HANDOVER, the flagship: hand work between AIs as one link, with the full record attached
 - Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and independent implementations pass the published AER-1 conformance corpus (143 vectors, 146 checks)
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
