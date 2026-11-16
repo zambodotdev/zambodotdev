@@ -20,7 +20,7 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - AER-1 draft: https://datatracker.ietf.org/doc/draft-zambo-aer1/26/
 - WIMSE mapping draft (AER-1 receipts as audit records for WIMSE AIMS): https://datatracker.ietf.org/doc/draft-zambo-aer1-wimse-mapping/03/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
-- Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and independent implementations pass the published AER-1 conformance corpus (143 vectors, 146 checks)
+- Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and Laurent Lemonnier's independent implementation passes the full published AER-1 conformance corpus (143 of 143 vectors, 146 checks), with other independent runs recorded as scoped subsets on the conformance challenge
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
