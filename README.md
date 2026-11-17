@@ -6,7 +6,7 @@
 [![AER-1 corpus](https://img.shields.io/badge/AER--1_corpus-143_vectors_%2F_146_checks-brightgreen)](https://zambo.dev/aer1/corpus.json)
 
 
-AER-1 is the open standard for agent execution receipts. Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
+[AER-1](https://rambozambodotdev.gitlab.io/aer1-hub/what-is-aer-1.html) is the open standard for agent execution receipts. Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
 
 **The verifiable work layer for AI.** Solo-built by Brennan Zambo, who created agent execution receipts: Zambo is the origin product, AER-1 the defining standard.
 
