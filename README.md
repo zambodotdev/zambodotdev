@@ -13,7 +13,7 @@
 Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools (37 on the default surface), and a verifiable receipt for every job.
 
 - **HANDOVER, the flagship:** hand work between AIs as one link, with the full record attached: https://zambo.dev/handover/
-- **Live proof, check it yourself:** a worked example minted Nov 19, 2026: five receipts (BTC, ETH, SOL prices, one honest failure, one zero-result search) wrapped into one handover. Start at the BTC receipt https://zambo.dev/run/e53423b0-1de0-44da-b862-19e0eed7fb68 and the handover it feeds https://zambo.dev/handover/97c9ef52-d3bd-44b3-bfeb-7f5886572f7f. Counters read today (Nov 21, 2026): 156,935 public receipts (1,537 today), 341,745 package downloads, 21 paying customers.
+- **Live proof, check it yourself:** a worked example minted Nov 19, 2026: five receipts (BTC, ETH, SOL prices, one honest failure, one zero-result search) wrapped into one handover. Start at the BTC receipt https://zambo.dev/run/e53423b0-1de0-44da-b862-19e0eed7fb68 and the handover it feeds https://zambo.dev/handover/97c9ef52-d3bd-44b3-bfeb-7f5886572f7f. Counters read today (Nov 21, 2026): 157,501 public receipts (1,987 today), 341,745 package downloads, 21 paying customers.
 - Add Zambo: https://zambo.dev/add/?ref=gh-profile
 - Verify a receipt: https://zambo.dev/verify/
 - Day Pass, $0.99 unlimited for 24 hours: https://zambo.dev/day-pass/
