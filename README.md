@@ -2,7 +2,7 @@
 
 [![zambo receipts](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzambodotdev.github.io%2Fnumbers.json&query=%24.receipts&label=verifiable%20receipts&color=c6ff3d&cacheSeconds=300)](https://zambo.dev/numbers/)
 [![package downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzambodotdev.github.io%2Fnumbers.json&query=%24.downloads&label=package%20downloads&color=c6ff3d&cacheSeconds=300)](https://zambo.dev/numbers/)
-[![IETF drafts](https://img.shields.io/badge/IETF_drafts-3_active-blue)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
+[![IETF drafts](https://img.shields.io/badge/IETF_drafts-4_active-blue)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
 [![AER-1 corpus](https://img.shields.io/badge/AER--1_corpus-143_vectors_%2F_146_checks-brightgreen)](https://zambo.dev/aer1/corpus.json)
 
 
@@ -20,6 +20,8 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Pass: $29 for 30 days, $19 for $ZAMBO holders, or Lifetime at $250 one payment: https://zambo.dev/pricing/
 - AER-1 draft: https://datatracker.ietf.org/doc/draft-zambo-aer1/26/
 - WIMSE mapping draft (AER-1 receipts as audit records for WIMSE AIMS): https://datatracker.ietf.org/doc/draft-zambo-aer1-wimse-mapping/03/
+- Audit data model draft (the AER-1 execution receipt as an audit data model for agent interactions): https://datatracker.ietf.org/doc/draft-zambo-aer1-audit-data-model/00/
+- Attribution profile draft (optional maker attestation for AER-1 execution receipts, filed November 22, 2026): https://datatracker.ietf.org/doc/draft-zambo-aer1-attribution-profile/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
 - Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and Laurent Lemonnier's independent implementation passes the full published AER-1 conformance corpus (143 of 143 vectors, 146 checks), with other independent runs recorded as scoped subsets on the conformance challenge
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
