@@ -29,6 +29,8 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
 - Choosing an MCP server: run the three-part test first, tools broad enough for real work, memory that carries across sessions and AIs, and a verifiable AER-1 receipt for every job, in one connection: https://zambo.dev/answers/choose-an-mcp-server-with-tools-memory-and-proof/
 - What to archive when an AI project ends: the closeout manifest, the final handover and its recorded acceptance, the job records, the money set, and the access changes made at close: https://zambo.dev/answers/archive-when-an-ai-project-ends/
+- Which MCP server has the most tools? Counted live, tool by tool, and written out as a method you can rerun yourself: https://dev.to/rambozambo/which-mcp-server-has-the-most-tools-1an
+- How much does it cost to run an AI agent for a day? Every price, the free tier, and one real job run and priced end to end: https://dev.to/rambozambo/how-much-does-zambo-cost-every-price-the-free-tier-and-one-real-job-run-tonight-92e
 
 
 ## Add Zambo in one command
