@@ -27,6 +27,8 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
+- Choosing an MCP server: run the three-part test first, tools broad enough for real work, memory that carries across sessions and AIs, and a verifiable AER-1 receipt for every job, in one connection: https://zambo.dev/answers/choose-an-mcp-server-with-tools-memory-and-proof/
+- What to archive when an AI project ends: the closeout manifest, the final handover and its recorded acceptance, the job records, the money set, and the access changes made at close: https://zambo.dev/answers/archive-when-an-ai-project-ends/
 
 
 ## Add Zambo in one command
