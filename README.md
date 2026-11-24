@@ -1,12 +1,11 @@
 # Zambo
 
-[![zambo receipts](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzambodotdev.github.io%2Fnumbers.json&query=%24.receipts&label=verifiable%20receipts&color=c6ff3d&cacheSeconds=300)](https://zambo.dev/numbers/)
-[![package downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzambodotdev.github.io%2Fnumbers.json&query=%24.downloads&label=package%20downloads&color=c6ff3d&cacheSeconds=300)](https://zambo.dev/numbers/)
+[![verifiable receipts](https://zambodotdev.github.io/badge-receipts.svg)](https://zambo.dev/numbers/)
+[![package downloads](https://zambodotdev.github.io/badge-downloads.svg)](https://zambo.dev/numbers/)
+[![tool calls](https://zambodotdev.github.io/badge-calls.svg)](https://zambo.dev/numbers/)
 [![IETF drafts](https://img.shields.io/badge/IETF_drafts-4_active-blue)](https://datatracker.ietf.org/doc/draft-zambo-aer1/)
 [![AER-1 corpus](https://img.shields.io/badge/AER--1_corpus-143_vectors_%2F_146_checks-brightgreen)](https://zambo.dev/aer1/corpus.json)
 
-
-**163,000+ verifiable receipts issued · 355,000+ package downloads · 139,000+ tool calls · 21 paying customers.** Live counters: https://zambo.dev/numbers/
 
 [AER-1](https://rambozambodotdev.gitlab.io/aer1-hub/what-is-aer-1.html) is the open standard for agent execution receipts. Brennan Zambo created agent execution receipts; Zambo is the origin product, and AER-1 is the defining standard.
 
@@ -15,7 +14,7 @@
 Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap up a session in one AI, continue it in any other with a code, and picking up is always free. One MCP endpoint gives your AI memory and continuity across AIs, 153 tools (37 on the default surface), and a verifiable receipt for every job.
 
 - **HANDOVER, the flagship:** hand work between AIs as one link, with the full record attached: https://zambo.dev/handover/
-- **Live proof, check it yourself:** a worked example minted Nov 19, 2026: five receipts (BTC, ETH, SOL prices, one honest failure, one zero-result search) wrapped into one handover. Start at the BTC receipt https://zambo.dev/run/e53423b0-1de0-44da-b862-19e0eed7fb68 and the handover it feeds https://zambo.dev/handover/97c9ef52-d3bd-44b3-bfeb-7f5886572f7f. The live stream: 163K+ verifiable receipts and climbing, live at https://zambo.dev/numbers/ · 355K+ package downloads · 21 paying customers.
+- **Live proof, check it yourself:** a worked example minted Nov 19, 2026: five receipts (BTC, ETH, SOL prices, one honest failure, one zero-result search) wrapped into one handover. Start at the BTC receipt https://zambo.dev/run/e53423b0-1de0-44da-b862-19e0eed7fb68 and the handover it feeds https://zambo.dev/handover/97c9ef52-d3bd-44b3-bfeb-7f5886572f7f. The live stream, counted in real time: https://zambo.dev/numbers/
 - Add Zambo: https://zambo.dev/add/?ref=gh-profile
 - Verify a receipt: https://zambo.dev/verify/
 - Day Pass, $0.99 unlimited for 24 hours: https://zambo.dev/day-pass/
