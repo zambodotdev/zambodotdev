@@ -70,3 +70,11 @@ Start here: [zambo-mcp](https://github.com/zambodotdev/zambo-mcp)
 Run the conformance challenge: [Run the verifier. Post your score.](https://github.com/zambodotdev/aer-1/issues/4) · Argue about what a receipt should refuse to say: [AER-1 discussions](https://github.com/zambodotdev/aer-1/discussions/5)
 
 Site: https://zambo.dev
+
+---
+
+## Also: ProofForge
+
+A second, separate product from the same builder: [ProofForge](https://proofforge.live) is an AI app security scan for AI-built apps.
+
+Paste a URL and it runs a free read-only scan for leaked keys, open Supabase and Firebase data, and missing headers. First fix free, no account.
