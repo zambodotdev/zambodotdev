@@ -25,6 +25,7 @@ Your AI forgets everything the second you close the chat. Zambo fixes that. Wrap
 - Attribution profile draft (optional maker attestation for AER-1 execution receipts, filed November 22, 2026): https://datatracker.ietf.org/doc/draft-zambo-aer1-attribution-profile/01/
 - Main code home: [GitLab](https://gitlab.com/rambozambodotdev/zambo), development happens there
 - Receipts: every call returns a verifiable AER-1 receipt (draft-zambo-aer1-26); the live count rides the badge above, and Laurent Lemonnier's independent implementation passes the full published AER-1 conformance corpus (143 of 143 vectors, 146 checks), with other independent runs recorded as scoped subsets on the conformance challenge
+AER-1 corpus: kit 1.6.1, 143 vectors / 146 checks, digest sha256:4ea44dc07125a6f9b7fa472450a30fb56265771cfe87b1772a02b03d1fc166f2, https://zambo.dev/aer1/corpus.json
 - Receipt Scan: check every receipt in a whole page at once: https://zambodotdev.github.io/receipt-scan/
 - AER-1 live interop matrix: https://zambodotdev.github.io/aer-1/
 - Free tier: Every tool free once a day, plus 3 continue calls. One free wrap-up handover per day, and pickup is always free.
